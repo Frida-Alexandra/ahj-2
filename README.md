@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «DOM»
 
-![CI](https://github.com/Frida-Alexandra/ahj-2/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/2s0lbftqfjriplyq?svg=true)](https://github.com/Frida-Alexandra/ahj-2/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
