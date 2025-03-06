@@ -2,14 +2,12 @@
 
 ![CI](https://github.com/Frida-Alexandra/ahj-2/actions/workflows/web.yml/badge.svg)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/2s0lbftqfjriplyq?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ahj-2-moving-an-element)
-
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
-1. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
-1. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
-1. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проекты
+2. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
+3. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
+4. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проекты
 
 ---
 
